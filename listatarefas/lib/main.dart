@@ -3,7 +3,7 @@ import 'package:listatarefas/home.dart';
 
 void main() {
   runApp(const MaterialApp(
-    debugShowCheckedModeBanner: true,
+    debugShowCheckedModeBanner: false,
     home: home(),
   ));
 }
