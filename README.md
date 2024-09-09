@@ -1,4 +1,4 @@
-# Aplicativo Lista de Tarefas
+# App Lista de Tarefas
 
 Aprendendo o funcionamento dos seguintes recursos:
 
